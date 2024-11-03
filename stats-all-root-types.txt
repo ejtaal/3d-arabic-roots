@@ -1,0 +1,26 @@
+    730 <itype>10</itype>        
+     56 <itype>11</itype>        
+     48 <itype>12</itype>        
+      4 <itype>13</itype>        
+   3367 <itype>1</itype>        
+   1948 <itype>2</itype>        
+    968 <itype>3</itype>        
+   2108 <itype>4</itype>        
+   1638 <itype>5</itype>        
+    732 <itype>6</itype>        
+    477 <itype>7</itype>        
+   1238 <itype>8</itype>        
+     70 <itype>9</itype>        
+    170 <itype>Q.1</itype>        
+     63 <itype>Q.2</itype>        
+      9 <itype>Q.3</itype>        
+     23 <itype>Q.4</itype>        
+    106 <itype>Q.Q.1</itype>        
+     48 <itype>Q.Q.2</itype>        
+     16 <itype>Q.Q.3</itype>        
+     34 <itype>Q.Q.4</itype>        
+    225 <itype>R.Q.1</itype>        
+    112 <itype>R.Q.2</itype>        
+      6 <itype>R.Q.3</itype>        
+      1 <itype>R.Q.4</itype>        
+     36 <itype>alphabetical letter</itype>       
