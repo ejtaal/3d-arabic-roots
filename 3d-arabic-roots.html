@@ -254,6 +254,9 @@ function redraw_roots() {
 
 	// renderer.render( scene, camera );
 	renderer.render( scene, camera );
+	// setTimeout( anim, 0, 1)
+	// setTimeout( anim, 0, 2)
+	// setTimeout( anim, 0, 3)
 
 }
 
@@ -317,6 +320,7 @@ renderer.render( scene, camera );
 renderer.domElement.addEventListener( 'mousemove', ( event ) => setOrbitPoint( event.clientX, event.clientY ) );
 renderer.domElement.addEventListener( 'mousedown', ( event ) => setOrbitPoint( event.clientX, event.clientY ) );
 renderer.domElement.addEventListener( 'touchstart', ( event ) => setOrbitPoint( event.changedTouches[ 0 ].clientX, event.changedTouches[ 0 ].clientY ) );
+// import { FontLoader } from './jslibs/FontLoader.js';
 
 renderer.render( scene, camera );
 
@@ -344,7 +348,7 @@ function anim () {
 	requestAnimationFrame( anim );
 	updated && renderer.render( scene, camera );
 	// labelRenderer.render( scene, camera );
-	// renderer.render( scene, camera );
+	renderer.render( scene, camera );
 
 } )();
 
