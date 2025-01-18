@@ -72,6 +72,7 @@ Which verb forms are listed most overall?
 
 ### 1st letter
 
+```
 letter	Count - 1st letter
 ن	260
 ر	238
@@ -103,11 +104,13 @@ letter	Count - 1st letter
 ي	16
 آ	2
 ى	0
+```
 
 ### 2nd letter
 
 The below stats prove that the picture above that appears to show an abundance of roots having ر as their middle or last letter is backed by hard data.
 
+```
 letter	Count - 2nd letter
 ر	371
 و	297
@@ -139,9 +142,11 @@ letter	Count - 2nd letter
 ظ	27
 ى	15
 ا	4
+```
 
 ### 3rd letter
 
+```
 letter	Count - 3rd letter
 ر	345
 ب	251
@@ -173,9 +178,11 @@ letter	Count - 3rd letter
 ظ	18
 ا	5
 ي	4
+```
 
 ### Most used overall
 
+```
 letter	Most used overall
 ر	954
 و	694
@@ -207,3 +214,4 @@ letter	Most used overall
 ذ	157
 ا	142
 ظ	66
+```
