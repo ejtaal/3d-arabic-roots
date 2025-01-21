@@ -1,4 +1,9 @@
 
+![3D-Arabic-roots.png](3D-Arabic-roots.png)
+
+[Live version of 3D Arabic roots](https://ejtaal.github.io/3d-arabic-roots/3d-arabic-roots.html)
+
+
 # Background
 
 ## What is it?
@@ -8,7 +13,7 @@ Arabic roots are placed within the space of a 3D cube according to the place of 
 ## What lexicon?
 
 The data based on the text that has been taken from the Perseus project which has compiled the entire text of Lane's Lexicon online in xml and other formats:
-http://www.perseus.tufts.edu/hopper/collection?collection=Perseus%3Acorpus%3Aperseus%2Cwork%2CLane%2C%20An%20Arabic-English%20Lexicon
+[link](http://www.perseus.tufts.edu/hopper/collection?collection=Perseus%3Acorpus%3Aperseus%2Cwork%2CLane%2C%20An%20Arabic-English%20Lexicon)
 
 ## Legend
 
